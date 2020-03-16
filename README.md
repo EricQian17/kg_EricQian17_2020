@@ -1,1 +1,1 @@
-# Code is under impression it is index specific and you cannot choose which letter is mapped to the other
+# Coded under the impression that you cannot choose which char is mapped to another char and is index specific based on initial order
